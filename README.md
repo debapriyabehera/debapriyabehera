@@ -54,3 +54,8 @@ Retrieval Strategies • LLM-based Data Assistants
 ---
 
 Open to remote and product-focused engineering opportunities.
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debapriyabehera&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debapriyabehera&layout=compact)
